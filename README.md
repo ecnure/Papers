@@ -2,7 +2,7 @@
 
 ## Overview📃
 
-![Papers](./figures/number_of_papers.png)
+![Papers](./figures/number_of_publications.png)
 
 ## 🎊Recent Updates🎊
 
